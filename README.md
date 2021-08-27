@@ -3,3 +3,8 @@
    * Our AI Agent required minimax function, heuristic function
 and in addition I used task which is .NET framework provides
 Threading.
+* we set 7 task separated to each column, to search for the
+best move. Starting with searching solution index The search
+is conducted through a Minimax algorithm, with a number
+of optimizations, namely start index, finish index, board and
+depth,
