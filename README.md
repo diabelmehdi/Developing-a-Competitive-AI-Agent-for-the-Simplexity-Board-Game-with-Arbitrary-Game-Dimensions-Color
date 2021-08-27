@@ -1,0 +1,2 @@
+# Developing-a-Competitive-AI-Agent-for-the-Simplexity-Board-Game-with-Arbitrary-Game-Dimensions-Color
+  I participate in ColorShapeLinks which is an [AI competition](https://github.com/VideojogosLusofona/color-shape-links-ai-competition#important-dates) for the Simplexity board game with arbitrary game dimensions. The first player to place n pieces of the same type in a row wins. In this regard, the base game, with a 6 x 7 board and n = 4, is similar to Connect Four
